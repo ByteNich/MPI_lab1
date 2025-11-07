@@ -11,6 +11,11 @@ task4_dirichlet
 # Plot files
 *.png
 
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
 # Editor files
 *.swp
 *~
