@@ -1,0 +1,18 @@
+# Compiled executables
+task1_monte_carlo_pi
+task2_matrix_vector
+task3_cannon_matrix_mult
+task4_dirichlet
+*.o
+
+# Results files
+*.txt
+
+# Plot files
+*.png
+
+# Editor files
+*.swp
+*~
+.DS_Store
+
